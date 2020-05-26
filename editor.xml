@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.test.context.junit4.AbstractJUnit4SpringContextTests" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
